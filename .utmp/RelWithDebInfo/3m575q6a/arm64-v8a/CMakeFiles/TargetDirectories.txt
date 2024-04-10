@@ -1,0 +1,5 @@
+/Users/daai6ga1hou2/Documents/GitHub/My project (3)/.utmp/RelWithDebInfo/3m575q6a/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/daai6ga1hou2/Documents/GitHub/My project (3)/.utmp/RelWithDebInfo/3m575q6a/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/daai6ga1hou2/Documents/GitHub/My project (3)/.utmp/RelWithDebInfo/3m575q6a/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/daai6ga1hou2/Documents/GitHub/My project (3)/.utmp/RelWithDebInfo/3m575q6a/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/daai6ga1hou2/Documents/GitHub/My project (3)/.utmp/RelWithDebInfo/3m575q6a/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
